@@ -1,0 +1,44 @@
+# Prerequisites
+*.d
+build/
+devel/
+/navigation_sim_demo/CMakeFiles/
+/robot_localization/CMakeFiles/
+/robot_localization/catkin_generated/
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.make
+*.cmake
+*.stamp
+*.log
+*.swp
+*.pyc
+#*
+Makefile
