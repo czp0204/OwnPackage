@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250311-0307-Experimental"
+	Name="czp-B250M-D3V"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="czp-B250M-D3V"
+	OSRelease="5.15.0-131-generic"
+	OSVersion="#141~20.04.1-Ubuntu SMP Thu Jan 16 18:38:51 UTC 2025"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="1951"
+	TotalPhysicalMemory="15948"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4407.82"
+	>
+	<Testing>
+		<StartDateTime>Mar 11 11:07 CST</StartDateTime>
+		<StartTestTime>1741662450</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 11 11:07 CST</EndDateTime>
+		<EndTestTime>1741662450</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

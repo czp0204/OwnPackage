@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/czp/practice/devel -DCMAKE_INSTALL_PREFIX=/home/czp/practice/install -G Unix Makefiles
